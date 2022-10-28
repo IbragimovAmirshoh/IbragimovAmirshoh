@@ -15,7 +15,7 @@
 - Telegram: https://t.me/ibragimov477
 - Linkedin: https://www.linkedin.com/in/amirshoh-ibragimov-7a460723b/
 - Email: ibragimov.amirshoh@mail.ru
-- 
+
 <hr />
 
 ### Languages:
