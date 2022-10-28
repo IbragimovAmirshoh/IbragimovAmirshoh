@@ -5,7 +5,7 @@
 
 ### About:
 
-#### Let me introduce myself. My name's Amirshoh and I'm a Full-Stack developer. I'm keen on learning IT technologies. My interest in programming started when I was 11 years old. First I started learning programming online and decided to become a Full-Stack developer. After that, I searched for a good training center to learn programming and the one I liked the most was Najot Talim Academy. That's why I decided to study here. I started learning English at the Cambridge Learning Center when I realized that I couldn't learn programming as much as I wanted without English.
+#### Let me introduce myself. My name's Amirshoh and I'm a Full-Stack developer. I'm keen on learning IT technologies. My interest in programming started when I was 11 years old. First I started learning programming online and decided to become a Full-Stack developer. After that, I searched for a good training center to learn programming and the one I liked the most was Najot Talim Academy. That's why I decided to study here. What's more, I started learning English at the Cambridge Learning Center when I realized that I couldn't learn programming as much as I wanted without English.
 
 <hr />
 
