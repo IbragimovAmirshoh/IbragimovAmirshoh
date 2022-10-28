@@ -14,10 +14,8 @@
 - Instagram: https://instagram.com/ibragimov_477
 - Telegram: https://t.me/ibragimov477
 - Linkedin: https://www.linkedin.com/in/amirshoh-ibragimov-7a460723b/
-- Email #1: ibragimov.amirshoh@mail.ru
-- Email #2: ibragimov.amirshoh@internet.ru
-- Email #3: ibragimovv.amirshoh@gmail.com
-
+- Email: ibragimov.amirshoh@mail.ru
+- 
 <hr />
 
 ### Languages:
@@ -38,5 +36,11 @@
       Bootstrap                                                                                        GraphQL
       JavaScript                                                                                       ORM: Sequelize & Type-ORM
       React.JS                                                                                         TypeScript
+      
+<hr />
+
+### Experience:
+
+- Internship of Abutech Company: 1 month
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/99003694/170978780-1166c3f8-9f31-453b-96cd-a799db6fab91.svg)
